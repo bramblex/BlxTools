@@ -1,0 +1,22 @@
+#!/bin/bash
+
+function init(){
+    ROOT_PATH=
+}
+
+function enable(){
+}
+
+function disable(){
+}
+
+function add(){
+}
+
+function refresh(){
+}
+
+function main(){
+}
+
+main ${@}
